@@ -1,4 +1,10 @@
-### Hi there 👋
+### Data Engineer interested in Rust 🦀
+
+Blog: http://jamesmcm.github.io/
+
+[![jamesmcm's Github stats](https://github-readme-stats.vercel.app/api?username=jamesmcm)](https://github.com/anuraghazra/github-readme-stats)
+
+You can see my main projects below:
 
 <!--
 **jamesmcm/jamesmcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
